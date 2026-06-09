@@ -111,14 +111,7 @@ audio.src = "assets/js/engine.mp3";
 
 
 
-// sign in pop up
-
-function openForm(){
-    document.querySelector('.login-box').style.display = 'block';
-}
-function closeForm(){
-    document.querySelector('.login-box').style.display = 'none';
-}
+// sign in — login box removido
 
 
 
